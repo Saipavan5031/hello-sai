@@ -1,0 +1,20 @@
+{
+  "name": "hello-sai",
+  "version": "1.0.0",
+  "description": "hello sai this is my package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SAIPAVAN NARRA",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saipavan5031/hello-sai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Saipavan5031/hello-sai/issues"
+  },
+  "homepage": "https://github.com/Saipavan5031/hello-sai#readme"
+}
